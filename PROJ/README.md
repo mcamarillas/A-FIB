@@ -16,6 +16,9 @@ Per fer-ho hem optat per diferents algorismes:
 ## Membres 
 
 · Roberto Amat Alins
+
 · Marc Camarillas Parés
+
 · Marc Nebot Moyano
+
 · Alejandro Salvat Navarro
