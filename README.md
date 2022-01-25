@@ -2,4 +2,4 @@
 
 ## Curs: 2021/22Q1
 
-Projecte d'A
+Projecte de l'assignatura d'algorismia
